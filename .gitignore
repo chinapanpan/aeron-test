@@ -1,0 +1,8 @@
+.gradle/
+build/
+*.jar
+*.class
+/dev/shm/aeron-*
+task_plan.md
+findings.md
+progress.md
